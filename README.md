@@ -1,18 +1,38 @@
-# Responsive Business Landing Page
+# 🌐 Responsive Business Landing Page – webjfix.com
 
-This is a free, responsive landing page template built with **HTML & CSS**.  
-Perfect for showcasing services, generating leads, and building modern websites.
+A modern, responsive **business landing page template** built with **Tailwind CSS**.  
+Designed for business owners, digital marketers, and entrepreneurs who need SEO-friendly websites that generate leads.  
 
-### Features
-- Mobile-first design
-- SEO-friendly meta tags
-- Clean, simple layout
-- Contact form ready
+🔗 **Live Demo:** [View on GitHub Pages](https://jay21121967.github.io/responsive-business-landing-page/)  
 
-### Demo
-👉 [Live Preview on GitHub Pages](#)
+---
 
-### How to Use
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/responsive-business-landing-page.git
+## ✨ Features
+- 🎨 Clean, modern design with video hero background  
+- 📱 Fully responsive (mobile, tablet, desktop)  
+- ⚡ Fast-loading and SEO-optimized structure  
+- 🖼️ Portfolio showcase section  
+- ⭐ Testimonials with avatars  
+- 📩 Contact form (ready for integration)  
+
+---
+
+## 📸 Screenshots
+
+### Hero Section
+![Hero Section](screenshots/hero.jpg)
+
+### Services
+![Services](screenshots/services.jpg)
+
+### Portfolio
+![Portfolio](screenshots/portfolio.jpg)
+
+### Contact Form
+![Contact](screenshots/contact.jpg)
+
+---
+
+## 📂 Project Structure
+
+
