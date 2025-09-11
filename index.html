@@ -10,13 +10,25 @@
 <body class="font-sans text-gray-800">
 
   <!-- Hero Section -->
-  <header class="bg-gradient-to-r from-blue-700 to-blue-500 text-white text-center py-24">
-    <div class="max-w-3xl mx-auto">
-      <h1 class="text-5xl font-extrabold leading-tight">Build a Website That Works as Hard as You Do</h1>
-      <p class="mt-6 text-lg">We design modern, responsive, and SEO-friendly websites that turn visitors into paying customers.</p>
-      <a href="#contact" class="mt-8 inline-block bg-yellow-400 text-gray-900 font-semibold px-8 py-4 rounded-lg shadow hover:bg-yellow-300 transition">Get a Free Consultation</a>
-    </div>
-  </header>
+  <!-- Hero Section with Video Background -->
+<header class="relative text-white text-center py-32 overflow-hidden">
+  
+  <!-- Background Video -->
+  <video autoplay muted loop playsinline class="absolute inset-0 w-full h-full object-cover">
+    <source src="man-with-laptop.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+  <!-- Dark Overlay -->
+  <div class="absolute inset-0 bg-blue-900 opacity-70"></div>
+
+  <!-- Content -->
+  <div class="relative z-10 max-w-3xl mx-auto">
+    <h1 class="text-5xl font-extrabold leading-tight">Build a Website That Works as Hard as You Do</h1>
+    <p class="mt-6 text-lg">We design modern, responsive, and SEO-friendly websites that turn visitors into paying customers.</p>
+    <a href="#contact" class="mt-8 inline-block bg-yellow-400 text-gray-900 font-semibold px-8 py-4 rounded-lg shadow hover:bg-yellow-300 transition">Get a Free Consultation</a>
+  </div>
+</header>
 
   <!-- Services Section -->
   <section id="services" class="py-20 px-6 max-w-6xl mx-auto">
@@ -111,6 +123,7 @@
 
 </body>
 </html>
+
 
 
 
