@@ -20,7 +20,8 @@ Designed for business owners, digital marketers, and entrepreneurs who need SEO-
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](screenshots/hero.jpg)
+<img width="1919" height="628" alt="image" src="https://github.com/user-attachments/assets/840b433e-e381-480f-89ac-3eb156793ec6" />
+
 
 ### Services
 ![Services](screenshots/services.jpg)
