@@ -28,7 +28,8 @@ Designed for business owners, digital marketers, and entrepreneurs who need SEO-
 
 
 ### Portfolio
-<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/a3aff8a8-06d1-44be-9b08-562b82507403" />
+<img width="1917" height="562" alt="image" src="https://github.com/user-attachments/assets/376e2618-29f8-486a-ba41-9dc4ab58129f" />
+
 
 
 
