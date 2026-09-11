@@ -24,13 +24,16 @@ Designed for business owners, digital marketers, and entrepreneurs who need SEO-
 
 
 ### Services
-![Services](screenshots/services.jpg)
+<img width="1913" height="520" alt="image" src="https://github.com/user-attachments/assets/23f8d125-940a-4d59-8cdd-7789fcdbf974" />
+
 
 ### Portfolio
-![Portfolio](screenshots/portfolio.jpg)
+<img width="1913" height="520" alt="image" src="https://github.com/user-attachments/assets/e0f93ec9-5400-4895-ba7c-c89e70c54f52" />
+
 
 ### Contact Form
-![Contact](screenshots/contact.jpg)
+<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/41ebbc3a-d63b-4043-8f9b-c6b1c4f0dea1" />
+
 
 ---
 
