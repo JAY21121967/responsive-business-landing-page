@@ -1,4 +1,4 @@
-# 🌐 Responsive Business Landing Page – webjfix.com
+# 🌐 Responsive Business Landing Page – varhiai.com
 
 A modern, responsive **business landing page template** built with **Tailwind CSS**.  
 Designed for business owners, digital marketers, and entrepreneurs who need SEO-friendly websites that generate leads.  
