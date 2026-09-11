@@ -4,6 +4,7 @@ A modern, responsive **business landing page template** built with **Tailwind CS
 Designed for business owners, digital marketers, and entrepreneurs who need SEO-friendly websites that generate leads.  
 
 🔗 **Live Demo:** [View on GitHub Pages](https://jay21121967.github.io/responsive-business-landing-page/)  
+💼 **Developed by:** [VarahiAI](https://varahiai.com) — Web Development & AI Automation
 
 ---
 
